@@ -79,7 +79,7 @@ The easiest way to measure a resistive sensor is to connect one end to power and
  *your roll no : 212221240003
  * your name : Avula Tharun
  * department and year :AIML 2nd year
- 
+``` 
  // C++ code
 //
 int sensorvalue=A0;
@@ -106,7 +106,7 @@ delay(1000);
 //digitalWrite(led,sensorvalue);
 }
  
- 
+``` 
  
  
  
@@ -121,7 +121,7 @@ delay(1000);
  
  
 
-![image](https://user-images.githubusercontent.com/36288975/188804653-a3154e8e-2655-46f2-9dcd-f425dd1ba109.png)
+![image](https://github.com/AavulaTharun/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/blob/main/T1.PNG?raw=true)
 
 
 ### TABLE -02 standard deviation table 
